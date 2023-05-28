@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "https://prathimah1605.github.io/portfolio-project/static/css/main.c5625fe6.css",
-    "main.js": "https://prathimah1605.github.io/portfolio-project/static/js/main.2f5ed3a6.js",
+    "main.js": "https://prathimah1605.github.io/portfolio-project/static/js/main.a5a326b0.js",
     "static/js/787.32f5e8f0.chunk.js": "https://prathimah1605.github.io/portfolio-project/static/js/787.32f5e8f0.chunk.js",
     "static/media/prathima.jpg": "https://prathimah1605.github.io/portfolio-project/static/media/prathima.289181b07ab4ca38d3e3.jpg",
     "index.html": "https://prathimah1605.github.io/portfolio-project/index.html",
     "main.c5625fe6.css.map": "https://prathimah1605.github.io/portfolio-project/static/css/main.c5625fe6.css.map",
-    "main.2f5ed3a6.js.map": "https://prathimah1605.github.io/portfolio-project/static/js/main.2f5ed3a6.js.map",
+    "main.a5a326b0.js.map": "https://prathimah1605.github.io/portfolio-project/static/js/main.a5a326b0.js.map",
     "787.32f5e8f0.chunk.js.map": "https://prathimah1605.github.io/portfolio-project/static/js/787.32f5e8f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5625fe6.css",
-    "static/js/main.2f5ed3a6.js"
+    "static/js/main.a5a326b0.js"
   ]
 }

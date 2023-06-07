@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://prathimah1605.github.io/portfolio-project/static/css/main.eedb4aaf.css",
-    "main.js": "https://prathimah1605.github.io/portfolio-project/static/js/main.9e796435.js",
-    "static/js/787.32f5e8f0.chunk.js": "https://prathimah1605.github.io/portfolio-project/static/js/787.32f5e8f0.chunk.js",
-    "static/media/prathima.jpg": "https://prathimah1605.github.io/portfolio-project/static/media/prathima.289181b07ab4ca38d3e3.jpg",
-    "index.html": "https://prathimah1605.github.io/portfolio-project/index.html",
-    "main.eedb4aaf.css.map": "https://prathimah1605.github.io/portfolio-project/static/css/main.eedb4aaf.css.map",
-    "main.9e796435.js.map": "https://prathimah1605.github.io/portfolio-project/static/js/main.9e796435.js.map",
-    "787.32f5e8f0.chunk.js.map": "https://prathimah1605.github.io/portfolio-project/static/js/787.32f5e8f0.chunk.js.map"
+    "main.css": "/static/css/main.312fd980.css",
+    "main.js": "/static/js/main.ceabba59.js",
+    "static/js/787.32f5e8f0.chunk.js": "/static/js/787.32f5e8f0.chunk.js",
+    "static/media/prathima.jpg": "/static/media/prathima.289181b07ab4ca38d3e3.jpg",
+    "index.html": "/index.html",
+    "main.312fd980.css.map": "/static/css/main.312fd980.css.map",
+    "main.ceabba59.js.map": "/static/js/main.ceabba59.js.map",
+    "787.32f5e8f0.chunk.js.map": "/static/js/787.32f5e8f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eedb4aaf.css",
-    "static/js/main.9e796435.js"
+    "static/css/main.312fd980.css",
+    "static/js/main.ceabba59.js"
   ]
 }
